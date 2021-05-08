@@ -1,4 +1,3 @@
-# telegram-yt_mp3-bot
-This OpenSource bot will let you to download every YouTube video in MP3 format. Available in Spanish and English
+Sonic❤️❤️
 
-You can use it in Telegram by typing @dwnmp3Bot or here: https://goo.gl/12AADY
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dev-sonic/youtube-bot/tree/main)
